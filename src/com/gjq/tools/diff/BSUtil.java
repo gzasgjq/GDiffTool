@@ -1,4 +1,4 @@
-package com.dinpay.trip.diff;
+package com.gjq.tools.diff;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
